@@ -1,2 +1,2 @@
 # android-logo
-Responsive android logo
+Responsive android logo built with CSS 
